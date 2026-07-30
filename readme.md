@@ -1,3 +1,2 @@
 # Git practice
-
 Hell world
