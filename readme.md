@@ -1,9 +1,11 @@
 # Git practice
-<<<<<<< HEAD
+Hell world
+
+# I am feature2
+
+# I am going to main git 
 I am Main
 Hell world
-=======
-Hell world
+
 # I am from feature
 # Hey there
->>>>>>> 6028f1a4f6083877b77ce59f811487d05e352fd1
