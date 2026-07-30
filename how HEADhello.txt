@@ -1,0 +1,14 @@
+[33mcommit c89e826e527b50eb925dbe835da3601ab275f627[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Karthickumar <karthickumar787@gmail.com>
+Date:   Thu Jul 30 11:19:57 2026 +0530
+
+    Update hello.txt
+
+[1mdiff --git a/hello.txt b/hello.txt[m
+[1mindex 17a8098..135cb3d 100644[m
+[1m--- a/hello.txt[m
+[1m+++ b/hello.txt[m
+[36m@@ -1 +1,2 @@[m
+ Hello i am learning git[m
+[32m+[m[32mGit helps me track changes in my code.[m
+\ No newline at end of file[m
